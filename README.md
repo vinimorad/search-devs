@@ -2,7 +2,7 @@
 Durante a participação do curso da **Teknisa** foi desenvolvido esse projeto utilizando **Vue**, implementando funcionalidades como filtragem por **nome**, **linguagem** e **modal de apresentação**, informando também a **quantidade de resultados**.
 
 ## 🎨 Layout
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/61718764/159082961-527a22d5-d68e-4e9e-900b-fc6bd4bb9ad9.gif)
+![Animação](https://user-images.githubusercontent.com/61718764/159130587-566d335e-4587-44df-a2aa-79f57ee14d08.gif)
 
 
 ## 🛠 Tecnologias
