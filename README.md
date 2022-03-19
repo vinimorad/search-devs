@@ -1,5 +1,5 @@
 ## ✏ Sobre o projeto
-Durante a participação do curso da **Teknisa** foi desenvolvido esse projeto utilizando **Vue**, implementando funcionalidades como filtragem por **nome**, **linguagem** e **modal de apresentação**, informando também a **quantidade de resultados**.
+Durante a participação do curso da **Teknisa** foi desenvolvido esse projeto utilizando **Vue**, implementando funcionalidades como filtragem por **nome** e **linguagem**, informando a **quantidade de resultados** e adicionando também um **modal de apresentação**.
 
 ## 🎨 Layout
 ![Animação](https://user-images.githubusercontent.com/61718764/159130587-566d335e-4587-44df-a2aa-79f57ee14d08.gif)
