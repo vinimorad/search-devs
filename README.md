@@ -6,7 +6,7 @@ Durante a participação do curso da **Teknisa** foi desenvolvido esse projeto u
 
 
 ## 🛠 Tecnologias
-- [Vue.js](https://v2.vuejs.org/)
+- [Vue.js](https://v2.vuejs.org/) 
 - [Vue modal](https://euvl.github.io/vue-js-modal/)
 
 
