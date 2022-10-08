@@ -19,7 +19,7 @@ Durante a participação do curso da **Teknisa** foi desenvolvido esse projeto u
 ### 🎲 Rodando o Front End
 ```bash
 # Clone este repositório
-$ git clone https://github.com/vinimovich/searchdevs.git
+$ git clone https://github.com/vinimovich/search-devs.git
 
 # Instale as dependências
 $ npm install
